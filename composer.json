@@ -1,5 +1,5 @@
 {
-  "name": "bpampuch/pdfmake",
+  "name": "pdfmake-applivi",
   "type": "library",
   "description": "Client/server side PDF printing in pure JavaScript",
   "keywords": [
@@ -7,18 +7,18 @@
     "pdf",
     "javascript"
   ],
-  "homepage": "https://github.com/bpampuch/pdfmake",
+  "homepage": "https://github.com/nvbien/pdfmake.git",
   "license": "MIT",
   "authors": [
     {
-      "name": "Bartek Pampuch",
-      "email": "bartosz.pampuch@gmail.com",
-      "homepage": "http://pdfmake.org",
+      "name": "Bien nguyen",
+      "email": "devops@applivi.de",
+      "homepage": "https://github.com/nvbien/pdfmake",
       "role": "Developer"
     }
   ],
   "support": {
-    "issues": "https://github.com/bpampuch/pdfmake/issues"
+    "issues": "https://github.com/nvbien/pdfmake.git/issues"
   },
   "archive": {
     "exclude": [
